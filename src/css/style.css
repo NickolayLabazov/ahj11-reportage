@@ -1,0 +1,24 @@
+table{
+    width: 300px;
+    
+}
+
+tr{
+    height: 30px;
+}
+
+.tdContent{
+    width: 270px;
+}
+
+.tdImg{
+   width: 30px;    
+}
+
+.report{
+    border: 1px solid black;
+    width: 350px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: scroll;
+}
